@@ -2,7 +2,7 @@
 
 Welcome to my Software Engineering Portfolio! Here you’ll find highlights of my journey through application development, cloud computing, system automation, and full-stack engineering. This portfolio demonstrates my technical proficiency in building scalable, high-performing solutions using modern tools like Python, Java, React, AWS, Docker, and more.
 
-🔗 **Live Portfolio**: [https://snehitha2123.github.io/Snehitha-Portfolio/][([https://snehitha2123.github.io/Snehitha-Portfolio/])(https://snehitha2123.github.io/Snehitha-Portfolio/)
+🔗 **Live Portfolio**: [Visit Portfolio](https://snehitha2123.github.io/Snehitha-Portfolio/)
 
 ---
 
