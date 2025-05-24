@@ -1,80 +1,86 @@
-# 💻 Snehitha Sai Sappa - Software Engineer Portfolio
 
-Welcome to my Software Engineering Portfolio! Here you’ll find highlights of my journey through application development, cloud computing, system automation, and full-stack engineering. This portfolio demonstrates my technical proficiency in building scalable, high-performing solutions using modern tools like Python, Java, React, AWS, Docker, and more.
+---
 
-🔗 **Live Portfolio**: [Visit Portfolio](https://snehitha2123.github.io/Snehitha-Portfolio/)
+# 💻 Snehitha Sai Sappa — Software Engineer Portfolio
+
+Welcome to my Software Engineering portfolio! Here you’ll explore a curated selection of projects and experiences that showcase my expertise in cloud computing, full-stack development, system automation, and secure backend engineering. This portfolio reflects my passion for designing scalable, efficient, and secure solutions using cutting-edge technologies like Python, Java, Go, AWS, Docker, and more.
+
+🔗 **Live Portfolio:** [https://snehitha2123.github.io/Snehitha-Portfolio/](https://snehitha2123.github.io/Snehitha-Portfolio/)
 
 ---
 
 ## 👩‍💻 About Me
 
-I’m currently pursuing a Master’s in Information Technology and Project Management at **Arizona State University**, with a focus on:
-- 🌐 Full-Stack Web Development  
-- ☁️ Cloud-Native Architecture (AWS, Docker)  
-- 🛠️ DevOps & CI/CD Automation  
-- 🔐 Secure Systems & Backend Engineering  
+I am a Master’s student in Information Technology and Project Management at **Arizona State University** specializing in:
 
-I specialize in designing robust, efficient systems that prioritize performance, scalability, and security.
+* 🌐 Full-Stack Web Development
+* ☁️ Cloud-Native Architecture & Automation (AWS, Docker, CI/CD)
+* 🔐 Secure Systems & Backend Engineering
+* 📊 Data Science & Machine Learning Applications
+
+I am passionate about building robust systems that prioritize scalability, security, and user-centric design.
 
 ---
 
-## 💼 Work Experience
+## 💼 Work Experience Highlights
 
-- **Graduate Teaching Assistant**, Arizona State University  
-- **Junior Web Developer**, Arik Infotech Pvt. Ltd.  
-- **Software Engineering Intern**, AICTE Edu Skills  
+* **Graduate Teaching Assistant - Software ENgineering** – Arizona State University
+* **Software Development Engineer - Full Stack & DevOps** – Arik Infotech Pvt. Ltd.
+* **Software Engineer - Cloud Automation & Optimization** – AICTE Edu Skills
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Category | Description |
-|--------|----------|-------------|
-| [Tourist Management System](#) | Full-Stack & Cloud | Developed a cloud-based booking platform with Python, SQL, AWS |
-| [IT Asset Management](#) | Cloud Dev & Automation | Built an asset tracking system with automation and dashboards |
-| [Intrusion Detection System](#) | Security & System Design | Designed a real-time NIDS with custom audit processors |
-| [Email Encryption System](#) | Cryptography | Created a secure email system using RSA, RC4, SMTP & TLS |
-| [Student Grade Evaluation](#) | ML & Analytics | Built ML models to predict grades based on student data |
-| [Loan Data Dashboard](#) | Visualization | Built an interactive dashboard using Python, JS, Tableau |
+| Project                                 | Category                        | Description                                                                                           |
+| --------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **System Monitoring CLI Tool**          | Full-Stack & Cloud Computing    | High-performance Go CLI for parsing 10GB+ AWS CloudWatch logs, reducing debugging time by 30%.        |
+| **IT Asset Management System**          | Full-Stack & Cloud Computing    | Cloud-based asset tracking platform improving data accuracy by 40% and operational efficiency by 25%. |
+| **Score Craft (Capstone Project)**      | Full-Stack & Cloud Computing    | Agile-led academic grading automation system cutting evaluation time by 50%.                          |
+| **Student Grade Prediction using ML**   | Machine Learning & Data Science | Multi-model classifier predicting student grades with 85%+ accuracy using Python.                     |
+| **Interactive Loan Analysis Dashboard** | Machine Learning & Data Science | Dynamic dashboard using Python, R, and Tableau that improved loan data exploration by 35%.            |
+| **Email Encryption Automation**         | Security & Systems Programming  | Secure email system with RSA, RC4, TLS protocols to ensure data confidentiality.                      |
 
 ---
 
 ## 📜 Certifications
 
-- AWS Academy: Cloud Foundations, Machine Learning Foundations, Cloud Architecting  
-- Simplilearn: DevOps on AWS  
-- iNeuron: Java Programming  
-- Pirple: Web Development (HTML5, CSS3)  
+* AWS Academy: Cloud Foundations, Machine Learning Foundations, Cloud Architecting
+* iNeuron: Java Programming, Pre-Ethical Hacking
+* Pirple: Web Development (HTML5, CSS3)
+* Simplilearn: Data Science with Python
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-- **Languages**: Python, Java, JavaScript, SQL, PHP, C++  
-- **Frontend**: React, HTML5, CSS3, Redux, Material UI  
-- **Backend**: Node.js, Express.js, Flask, REST APIs  
-- **DevOps**: Docker, Jenkins, GitLab CI, Kubernetes  
-- **Cloud Platforms**: AWS (EC2, RDS, S3, IAM), GCP  
-- **Database**: MySQL, PostgreSQL, MongoDB  
-- **Tools**: Git, GitHub, Figma, Jira, Tableau, Power BI  
-
----
-
-## 📬 Contact
-
-- **Email**: ssnehitha2012@gmail.com  
-- **Location**: Tempe, AZ, USA  
-- **Phone**: +1 (614) 483-9574  
-- **LinkedIn**: [linkedin.com/in/snehithasaisappa2112](https://www.linkedin.com/in/snehithasaisappa2112/)
+* **Languages:** Python, Java, Go, JavaScript, SQL, C++
+* **Frontend:** React, HTML5, CSS3, Redux, Material UI
+* **Backend:** Node.js, Express.js, Flask, REST APIs, Spring Boot
+* **DevOps:** Docker, Kubernetes, Jenkins, GitLab CI, AWS CloudWatch
+* **Cloud Platforms:** AWS (EC2, RDS, S3, IAM), GCP
+* **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
+* **Tools:** Git, GitHub, Jira, Tableau, Power BI, Figma
 
 ---
 
-### 📌 How to View
+## 📬 Contact Me
 
-1. Visit the deployed portfolio: [Click here](https://snehitha2123.github.io/Snehitha-Portfolio/)
-2. Or clone the repo and open `index.html` locally in your browser.
+* **Email:** [ssnehitha2012@gmail.com](mailto:ssnehitha2012@gmail.com)
+* **LinkedIn:** [linkedin.com/in/snehithasaisappa2112](https://www.linkedin.com/in/snehithasaisappa2112/)
+* **Location:** Tempe, AZ, USA
 
 ---
 
-> © 2025 Snehitha Sai Sappa  
-> This portfolio is built using HTML, CSS, and JavaScript, and hosted via GitHub Pages.
+### 📌 How to Use
+
+* Visit the live portfolio at [https://snehitha2123.github.io/Snehitha-Portfolio/](https://snehitha2123.github.io/Snehitha-Portfolio/)
+* Or clone this repo and open `index.html` in your browser
+
+---
+
+> © 2025 Snehitha Sai Sappa
+> Portfolio built with HTML, CSS, JavaScript | Hosted on GitHub Pages
+
+---
+
