@@ -34,12 +34,12 @@ I am passionate about building robust systems that prioritize scalability, secur
 
 | Project                                 | Category                        | Description                                                                                           |
 | --------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| **System Monitoring CLI Tool**          | Full-Stack & Cloud Computing    | High-performance Go CLI for parsing 10GB+ AWS CloudWatch logs, reducing debugging time by 30%.        |
-| **IT Asset Management System**          | Full-Stack & Cloud Computing    | Cloud-based asset tracking platform improving data accuracy by 40% and operational efficiency by 25%. |
-| **Score Craft (Capstone Project)**      | Full-Stack & Cloud Computing    | Agile-led academic grading automation system cutting evaluation time by 50%.                          |
+| **System Monitoring CLI Tool**          | Security & Systems Development    | High-performance Go CLI for parsing 10GB+ AWS CloudWatch logs, reducing debugging time by 30%.        |
+| **IT Asset Management System**          | Full-Stack Development & Cloud Computing    | Cloud-based asset tracking platform improving data accuracy by 40% and operational efficiency by 25%. |
+| **Score Craft (Capstone Project)**      | Full-Stack Development & Cloud Computing    | Agile-led academic grading automation system cutting evaluation time by 50%.                          |
 | **Student Grade Prediction using ML**   | Machine Learning & Data Science | Multi-model classifier predicting student grades with 85%+ accuracy using Python.                     |
 | **Interactive Loan Analysis Dashboard** | Machine Learning & Data Science | Dynamic dashboard using Python, R, and Tableau that improved loan data exploration by 35%.            |
-| **Email Encryption Automation**         | Security & Systems Programming  | Secure email system with RSA, RC4, TLS protocols to ensure data confidentiality.                      |
+| **Email Encryption Automation**         | Security & Systems Dvelopment  | Secure email system with RSA, RC4, TLS protocols to ensure data confidentiality.                      |
 
 ---
 
