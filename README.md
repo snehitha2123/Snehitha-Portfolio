@@ -24,7 +24,7 @@ I am passionate about building robust systems that prioritize scalability, secur
 
 ## 💼 Work Experience Highlights
 
-* **Graduate Teaching Assistant - Software ENgineering** – Arizona State University
+* **Graduate Teaching Assistant - Software Engineering** – Arizona State University
 * **Software Development Engineer - Full Stack & DevOps** – Arik Infotech Pvt. Ltd.
 * **Software Engineer - Cloud Automation & Optimization** – AICTE Edu Skills
 
